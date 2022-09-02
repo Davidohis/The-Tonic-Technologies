@@ -13,7 +13,7 @@ import {
 function CustomersSection() {
   return (
     <CustomersSectionWrapper>
-      <BackgroundImage src="/assets/image.png" alt={"feather"} />
+      <BackgroundImage src="/assets/customer.png" alt={"customer"} />
       <Section nopadding grid>
         <CustomersWrapper row nopadding>
           <CustomersSectionFlex>
